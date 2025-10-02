@@ -1,6 +1,3 @@
-Here’s a clean **README.md** draft for your FASTA parser project 👇
-
-````markdown
 # FASTA Parser & Sequence Statistics
 
 This project provides a simple Python script to parse FASTA files and generate useful sequence statistics such as length, GC content, and nucleotide counts. Results are displayed in a tabular format and can optionally be saved as a CSV file.
@@ -26,7 +23,7 @@ This project provides a simple Python script to parse FASTA files and generate u
 Install dependencies:
 ```bash
 pip install biopython pandas
-````
+```
 
 ---
 
